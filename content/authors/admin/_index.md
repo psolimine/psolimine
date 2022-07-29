@@ -25,20 +25,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    institution: Florida State University
     - course: PhD in Economics
-      institution: Florida State University
       year: 2022
     - course: MSc in Computational Science
-      institution: Florida State University
       year: 2022
     - course: MSc in Economics
-      insitution: Florida State University
       year: 2018
     - course: BA in Mathematics
-      institution: Florida State University
       year: 2016
     - course: BSc in Economics
-      institution: Florida State University
       year: 2016
 
 # Social/Academic Networking
