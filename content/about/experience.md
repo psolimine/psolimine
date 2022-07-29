@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Fellow
     company: University of British Columbia
     company_url: ''
-#    company_logo: icon
+    company_logo: ubc
     location: Vancouver, BC
     date_start: '2022-08-01'
     date_end: ''
