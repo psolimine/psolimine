@@ -14,7 +14,7 @@ organizations:
     url: https://www.ubc.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Philip Solimine is a Postdoctoral Fellow in Economics and Data Science at the University of British Columbia
 
 # Interests to show in About widget
 interests:
@@ -28,16 +28,18 @@ education:
     - course: PhD in Economics
       year: 2022
       institution: Florida State University
-      institution2: Dissertation - *Economic behavior in dynamic networks*
-      institution3: Committee - Matthew Gentry, Luke Boosey, R. Mark Isaac, Cynthia Fan Yang, Anke Meyer-Baese
     - course: MSc in Computational Science
       year: 2022
+      institution: Florida State University
     - course: MSc in Economics
       year: 2018
+      institution: Florida State University
     - course: BA in Mathematics
       year: 2016
+      institution: Florida State University
     - course: BSc in Economics
       year: 2016
+      institution: Florida State University
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,8 +76,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an incoming postdoctoral fellow in the Vancouver School of Economics and the Center for Innovative Data in Economic Research at the University of British Columbia.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research is focused on modelling economic behavior in social and economic networks. I develop tools to measure and understand the incentives that cause emergent effects on the endogenous structure of social systems, and the impact of this structure on the economic processes — market transactions, social learning, opinion formation, trading in influence, and collective action — that are set in these complex environments.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Philip_Solimine_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
