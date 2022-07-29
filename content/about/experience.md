@@ -31,7 +31,7 @@ experience:
     date_end: ''
 
   - title: Charles & Persis Rockwood and L. Charles Hilton Doctoral Fellow 
-    company: Florida State University - Departments of Economics and Scientific Computing
+    company: Florida State University - Depts of Economics and Scientific Computing
     company_url: ''
     company_logo: fsu
     location: Tallahassee, FL
