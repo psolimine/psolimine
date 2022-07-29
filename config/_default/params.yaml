@@ -34,6 +34,7 @@ header:
     enable: true
     align: l
     show_logo: true
+    show_title: true
     show_language: false
     show_day_night: false
     show_search: true
