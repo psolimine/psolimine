@@ -77,6 +77,6 @@ highlight_name: true
 
 I am an incoming postdoctoral fellow in the Vancouver School of Economics and the Center for Innovative Data in Economic Research at the University of British Columbia.
 
-My research is focused on modelling economic behavior in social and economic networks. I develop and apply the tools needed to understand the incentives that cause emergent effects on the endogenous structure of social systems, and model the subsequent impact of this social structure on economic processes — market transactions, learning, opinion exchange, trading in influence, and collective action — that are set in these complex environments.
+My research is focused on understanding economic behavior in dynamic social and economic networks. I develop tools to measure the incentives that drive dynamic social interaction, and apply them to study the subsequent impact of endogenous social structure on economic processes — market transactions, learning, opinion exchange, trading in influence, and collective action — that are set in these complex environments.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Philip_Solimine_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
