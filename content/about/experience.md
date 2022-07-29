@@ -33,11 +33,18 @@ experience:
   - title: Charles & Persis Rockwood and L. Charles Hilton Doctoral Fellow 
     company: Florida State University - Departments of Economics and Scientific Computing
     company_url: ''
-    company_logo: org-x
+    company_logo: fsu
     location: Tallahassee, FL
     date_start: '2017-08-01'
     date_end: '2022-07-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Researcher
+    company: Florida State University - XSFS Experimental Social Science Lab
+    company_url: ''
+    company_logo: fsu
+    location: Tallahassee, FL
+    date_start: '2015-01-01'
+    date_end: '2016-08-01'
 
 design:
   columns: '2'
