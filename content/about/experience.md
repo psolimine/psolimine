@@ -23,7 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Fellow
-    company: |2-Vancouver School of Economics\\nUniversity of British Columbia
+    company: |2-
+      Vancouver School of Economics
+      University of British Columbia
     company_url: ''
     company_logo: ubc
     location: Vancouver, BC
@@ -31,7 +33,9 @@ experience:
     date_end: ''
 
   - title: Charles & Persis Rockwood Doctoral Fellow 
-    company: Florida State University - Depts of Economics and Scientific Computing
+    company: |2-
+      Departments of Economics and Scientific Computing
+      Florida State University
     company_url: ''
     company_logo: fsu
     location: Tallahassee, FL
@@ -39,7 +43,9 @@ experience:
     date_end: '2022-07-31'
 
   - title: Researcher
-    company: Florida State University - XSFS Experimental Social Science Lab
+    company: |2-
+      XSFS Experimental Social Science Lab
+      Florida State University
     company_url: ''
     company_logo: fsu
     location: Tallahassee, FL
