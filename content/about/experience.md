@@ -24,7 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Postdoctoral Fellow
     company: |2-
-      Vancouver School of Economics\n
+      Vancouver School of Economics
+
       University of British Columbia
     company_url: ''
     company_logo: ubc
@@ -34,7 +35,8 @@ experience:
 
   - title: Charles & Persis Rockwood Doctoral Fellow 
     company: |2-
-      Departments of Economics and Scientific Computing\n
+      Departments of Economics and Scientific Computing
+
       Florida State University
     company_url: ''
     company_logo: fsu
@@ -44,7 +46,8 @@ experience:
 
   - title: Researcher
     company: |2-
-      XSFS Experimental Social Science Lab\n
+      XSFS Experimental Social Science Lab
+      
       Florida State University
     company_url: ''
     company_logo: fsu
