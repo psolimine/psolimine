@@ -1,9 +1,9 @@
 # Theme metadata
-name = "Minimal"
+name = "mytheme"
 
 [light]
   # Primary
-  primary = "#ff0000"
+  primary = "bbbdefb"
 
   # Menu
   menu_primary = "#fff"
@@ -18,6 +18,8 @@ name = "Minimal"
 [dark]
   # Primary
   primary = "#ff0000"
+
+  menu_primary = "#fff"
 
   link = "#bbdefb"
   link_hover = "#bbdefb"
