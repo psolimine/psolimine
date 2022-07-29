@@ -49,9 +49,9 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: twitter
-    icon_pack: ai
+    icon_pack: fab
     link: https://twitter.com/pc_solimine
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=kRCXJ8wAAAAJ
   - icon: github
@@ -77,6 +77,6 @@ highlight_name: true
 
 I am an incoming postdoctoral fellow in the Vancouver School of Economics and the Center for Innovative Data in Economic Research at the University of British Columbia.
 
-My research is focused on understanding economic behavior in dynamic social and economic networks. I develop tools to measure the incentives that drive dynamic social interaction, and apply them to study the subsequent impact of endogenous social structure on economic processes — market transactions, learning, opinion exchange, trading in influence, and collective action — that are set in these complex environments.
+My research is focused on understanding economic behavior in dynamic social and economic networks. I develop tools to identify the driving forces behind the evolution of social interaction, and apply them to real data to study the subsequent impact of endogenous social structure on economic processes — market transactions, learning, opinion exchange, trading in influence, and collective action — that are set in these complex environments.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Philip_Solimine_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
