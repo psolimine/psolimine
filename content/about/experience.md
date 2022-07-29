@@ -24,9 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Postdoctoral Fellow
     company: |2-
-      Vancouver School of Economics
-
-      University of British Columbia
+      'Vancouver School of Economics\n
+      University of British Columbia'
     company_url: ''
     company_logo: ubc
     location: Vancouver, BC
@@ -47,7 +46,7 @@ experience:
   - title: Researcher
     company: |2-
       XSFS Experimental Social Science Lab
-      
+
       Florida State University
     company_url: ''
     company_logo: fsu
