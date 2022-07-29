@@ -28,6 +28,7 @@ education:
     - course: PhD in Economics
       year: 2022
       institution: Florida State University
+    - course: MSc in Computational Science
       year: 2022
     - course: MSc in Economics
       year: 2018
