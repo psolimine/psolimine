@@ -17,7 +17,7 @@ name = "Minimal"
 
 [dark]
   # Primary
-  primary = "#444444"
+  primary = "#ff0000"
 
   link = "#bbdefb"
   link_hover = "#bbdefb"
