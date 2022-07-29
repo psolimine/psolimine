@@ -25,7 +25,6 @@ experience:
   - title: Postdoctoral Fellow
     company: |
       Vancouver School of Economics
-      
       University of British Columbia
     company_url: ''
     company_logo: ubc
