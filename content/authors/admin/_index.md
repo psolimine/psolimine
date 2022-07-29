@@ -60,13 +60,14 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/philip-solimine/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/Philip_Solimine_CV.pdf
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -75,7 +76,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an incoming postdoctoral fellow in the Vancouver School of Economics and the Center for Innovative Data in Economic Research at the University of British Columbia.
+I am an incoming postdoctoral fellow in the [Vancouver School of Economics](https://economics.ubc.ca/) and the [Center for Innovative Data in Economic Research](https://economics.ubc.ca/cider/research-activity/) at the University of British Columbia.
 
 My research is focused on understanding economic behavior in dynamic social and economic networks. I develop tools to identify the driving forces behind the evolution of social interaction, and apply them to real data to study the subsequent impact of endogenous social structure on economic processes — market transactions, learning, opinion exchange, trading in influence, and collective action — that are set in these complex environments.
 
