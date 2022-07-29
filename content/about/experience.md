@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Fellow
-    company:
+    company: |
       Vancouver School of Economics
       
       University of British Columbia
