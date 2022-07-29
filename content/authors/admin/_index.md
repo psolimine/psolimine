@@ -25,9 +25,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-      institution: Florida State University
     - course: PhD in Economics
       year: 2022
+      institution: Florida State University
+      institution: Dissertation - *Economic behavior in dynamic networks*
+      institution: Committee - Matthew Gentry, Luke Boosey, R. Mark Isaac, Cynthia Fan Yang, Anke Meyer-Baese
     - course: MSc in Computational Science
       year: 2022
     - course: MSc in Economics
