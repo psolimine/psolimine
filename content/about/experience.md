@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Fellow
-    company: Vancouver School of Economics
     company: University of British Columbia
     company_url: ''
     company_logo: ubc
     location: Vancouver, BC
     date_start: '2022-08-01'
     date_end: ''
+    description: I am a postdoctoral fellow in the [Vancouver School of Economics](https://economics.ubc.ca) and the [Center for Innovative Data in Economics Research (CIDER)](https://economics.ubc.ca/cider/research-activity/) at UBC
 
   - title: Charles & Persis Rockwood Doctoral Fellow 
     company: Florida State University
@@ -38,6 +38,7 @@ experience:
     location: Tallahassee, FL
     date_start: '2017-08-01'
     date_end: '2022-07-31'
+    description: As a dual-degree candidate at FSU, I served as the first Charles & Persis Rockwood Fellow and as a Research Fellow of the L. Charles Hilton Center.
 
   - title: Researcher
     company: XSFS Experimental Social Science Lab
