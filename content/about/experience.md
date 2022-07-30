@@ -32,9 +32,7 @@ experience:
     date_end: ''
 
   - title: Charles & Persis Rockwood Doctoral Fellow 
-    company:
-      Departments of Economics and Scientific Computing
-      Florida State University
+    company: Florida State University
     company_url: ''
     company_logo: fsu
     location: Tallahassee, FL
@@ -42,9 +40,7 @@ experience:
     date_end: '2022-07-31'
 
   - title: Researcher
-    company:
-      XSFS Experimental Social Science Lab
-      Florida State University
+    company: XSFS Experimental Social Science Lab
     company_url: ''
     company_logo: fsu
     location: Tallahassee, FL
