@@ -38,7 +38,7 @@ experience:
     location: Tallahassee, FL
     date_start: '2017-08-01'
     date_end: '2022-07-31'
-    description: In the Departments of Economics and Scientific Computing at FSU, I served as the first Charles & Persis Rockwood Doctoral Fellow and as a Research Fellow of the L. Charles Hilton Center.
+    description: I was the first Charles & Persis Rockwood Doctoral Fellow and a Research Fellow of the L. Charles Hilton Centern in the Departments of [Economics](https://coss.fsu.edu/economics/) and [Scientific Computing](https://sc.fsu.edu/) at FSU.
 
   - title: Researcher
     company: XSFS Experimental Social Science Lab
