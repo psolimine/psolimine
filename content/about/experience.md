@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Postdoctoral Fellow
     company: 
-      Vancouver School of Economics  
+      Vancouver School of Economics <br />
       University of British Columbia
     company_url: ''
     company_logo: ubc
