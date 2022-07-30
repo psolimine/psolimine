@@ -34,7 +34,9 @@ experience:
     description: I am a postdoctoral fellow in the [Vancouver School of Economics](https://economics.ubc.ca) and the [Center for Innovative Data in Economics Research (CIDER)](https://economics.ubc.ca/cider/research-activity/) at UBC
 
   - title: Charles & Persis Rockwood Doctoral Fellow 
-    company: Florida State University
+    company: 
+      Departments of Economics and Scientific Computing <br />
+      Florida State University
     company_url: ''
     company_logo: fsu
     location: Tallahassee, FL
