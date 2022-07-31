@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 author_notes: ''
 
-date: ''
+date: '2022'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -63,8 +63,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
