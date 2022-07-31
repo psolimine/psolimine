@@ -39,10 +39,8 @@ content:
     longitude:
   directions:
   office_hours:
-    Office Hours <br />
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Office Hours:'
+    - 'Monday and Wednesday, 3pm to 5pm'
 
 design:
   columns: '2'
