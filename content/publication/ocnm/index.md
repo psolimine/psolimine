@@ -1,5 +1,5 @@
 ---
-title: 'Efficient input placement for the optimal control of networked systems'
+title: 'Efficient input placement for the optimal control of networked moments'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 author_notes: ''
 
-date: 'accepted'
+date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
