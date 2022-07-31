@@ -45,7 +45,9 @@ experience:
     description: I was the first Charles & Persis Rockwood Doctoral Fellow and a Research Fellow of the L. Charles Hilton Center in the Departments of [Economics](https://coss.fsu.edu/economics/) and [Scientific Computing](https://sc.fsu.edu/) at FSU.
 
   - title: Researcher
-    company: XSFS Experimental Social Science Lab
+    company: 
+      XSFS Experimental Social Science Lab <br />
+      Florida State University
     company_url: ''
     company_logo: fsu
     location: Tallahassee, FL
