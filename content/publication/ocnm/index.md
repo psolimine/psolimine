@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Efficient input placement for the optimal control of networked systems'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 author_notes: ''
 
-date: '2022'
+date: '2022-12-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
