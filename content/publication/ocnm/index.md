@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 author_notes: ''
 
-date: '2021-12-09'
+date: 'accepted'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
