@@ -1,5 +1,5 @@
 ---
-title: 'Reputation and market structure in experimental platforms'
+title: 'Resource sharing on endogenous networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
