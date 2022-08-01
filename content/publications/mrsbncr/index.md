@@ -1,5 +1,5 @@
 ---
-title: 'Determining driver nodes in dynamic signed biological networks'
+title: 'Model reduction of structural biological networks by cycle removal'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,8 +7,8 @@ title: 'Determining driver nodes in dynamic signed biological networks'
 authors:
   - Amirhessam Tahmassebi
   - Behshad Mohebali
-  - Lisa Meyer-Baese
   - admin
+  - Uwe Meyer-Baese
   - Katja Pinker
   - Anke Meyer-Baese
 
@@ -31,12 +31,12 @@ publication_types: ['1']
 publication: In *Proceedings of the SPIE, Smart Biological and Sensor Technology XVI*
 publication_short: ''
 
-abstract: 'Leader-follower controllability in brain networks which are affected neurodegenerative diseases can provide important biomarkers relevant for disease evolution. The brain network is viewed as a dynamic system where the nodes interact via neighbor-based Laplacian feedback rules. The network has cooperative connections between the nodes described by positive weights along with competitive connections which are described by negative connection weights. The nodes take the role of either leaders or followers, thus forming a leader-follower signed dynamic graph network. The results of this analysis can be easily generalized on unsigned brain networks. We apply the leader-follower concept to structural and functional brain networks with neurodegenerative diseases (dementia) and show that the found leaders represent important biomarkers for disease evolution. In other words, the leader nodes drive the network towards deteriorating cognitive states.'
+abstract: 'Reducing a graph model is extremely important for the dynamical analysis of large-scale networks. In order to approximate the behavior of such a system it is helpful to be able to simplify the model. In this paper, the graph reduction model is introduced. This method is based on removing edges that close independent cycles in the graph. We apply this novel model reduction paradigm to brain networks, and show the differences between the model approximation error for various brain network graphs ranging from those of healthy controls to those of Alzheimer's patients. The graph simplification for Alzheimer's brain networks yields the smallest approximation error, since the number of independent cycles is smaller than in either the healthy controls or mild cognitive impairment patients.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Neural networks','Dynamic networks','Network degeneration','Optimal control','Data science']
+tags: ['Neural networks','Dynamic networks','Sensitivity analysis','Data science']
 
 # Display this page in the Featured widget?
 featured: false
@@ -44,7 +44,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
   - name: Published version
-    url: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11020/110200A/Determining-driver-nodes-in-dynamic-signed-biological-networks/10.1117/12.2519550.short'
+    url: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11020/110200K/Model-reduction-of-structural-biological-networks-by-cycle-removal/10.1117/12.2519552.short'
 
 url_pdf: ''
 url_code: ''
