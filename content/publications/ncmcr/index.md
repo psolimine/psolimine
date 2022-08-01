@@ -23,10 +23,10 @@ publishDate: ''
 publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Corruption Networks*, Understanding Complex Systems, Springer
+publication: In Granados, O.M., Nicolás-Carlock, J.R. (eds) *Corruption Networks*. Understanding Complex Systems. Springer
 publication_short: ''
 
-abstract: ''
+abstract: 'This chapter will discuss political corruption in a legislative social network using the tools of network control theory. We aim to cultivate an understanding of the mechanisms by which corrupting actors can perturb nodes’ behavior at certain points within a larger social system, and harness the natural magnification of these perturbations to drive the network to a more desirable state. In other words, we investigate how social capital is harnessed to amplify the effects of corruption using a social influence network or hierarchy. We provide a brief overview of control-theoretic metrics that may prove useful to researchers in identifying high-risk areas of legislative or other political social networks—areas which are particularly vulnerable to the spread of misinformation, and thus particularly valuable to the corruption of social dynamics.'
 
 # Summary. An optional shortened abstract.
 summary: ''
