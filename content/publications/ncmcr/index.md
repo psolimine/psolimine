@@ -1,17 +1,16 @@
 ---
-title: 'Efficient input placement for the optimal control of networked moments'
+title: 'Network controllability metrics for corruption research'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Anke Meyer-Baese
 
 # Author notes (optional)
 author_notes: ''
 
-date: ''
+date: '2021-09-25'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -21,28 +20,28 @@ publishDate: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted at *2022 61st IEEE Conference on Decision and Control (CDC)*
+publication: In *Corruption Networks*, Understanding Complex Systems, Springer
 publication_short: ''
 
-abstract: We study the optimal control of the mean and variance of the network state vector. We develop an algorithm that uses projected gradient descent to optimize the control input placement, subject to constraints on the state that must be achieved at a given time threshold; seeking an input placement that moves the moment at minimum cost. First, we solve the state-selection problem for a number of variants of the first and second moment, and find solutions related to the eigenvalues of the systems' Gramian matrices. We then nest this state selection into projected gradient descent to design an optimal input augmentation.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Networks','Optimal control', 'Input design']
+tags: ['Networks','Network corruption']
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+ links:
+ - name: Published version
+   url: 'https://link.springer.com/chapter/10.1007/978-3-030-81484-7_3'
 
-url_pdf: 'https://arxiv.org/pdf/2106.05265'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
