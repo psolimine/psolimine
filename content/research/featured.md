@@ -14,11 +14,12 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publications
+  page_type: wps
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria
   filters:
+    folder: 'wps'
     author: ''
     category: ''
     publication_type: ''
