@@ -32,7 +32,7 @@ abstract: We conduct a market experiment with the opportunity for sellers to sen
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Networks','Optimal control', 'Input design']
+tags: ['Network econometrics', 'Dynamic networks', 'Experimental markets and networks', 'Reputation systems and information design']
 
 # Display this page in the Featured widget?
 featured: true

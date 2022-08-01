@@ -21,7 +21,7 @@ publishDate: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: Conditionally accepted at *Journal of Economic Behavior & Organization*
@@ -32,7 +32,7 @@ abstract: We conduct a market experiment with the opportunity for sellers to sen
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Networks','Optimal control', 'Input design']
+tags: ['Market design', 'Experimental markets and networks', 'Decentralization', 'Reputation systems and information design']
 
 # Display this page in the Featured widget?
 featured: true
