@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Working Papers
+title: Publications
 subtitle: ''
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - publications
     tag: ''
     category: ''
     publication_type: ''
