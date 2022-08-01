@@ -23,7 +23,7 @@ publishDate: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Applied Network Science* Vol 5, p. 23.
+publication: In *Applied Network Science* Vol 5, p. 23
 publication_short: ''
 
 abstract: 'By viewing political and social corruption through the lens of the control theory of complex systems, this paper will provide some insight into the effects of corruption and outside control on incentives which direct the formation and evolution of social networks, and the intrinsic hierarchies which they encode. This paper proposes and tests the hypothesis that changes in the rate of competition among nodes to raise their control capacity, incentivized by the anticipation of payment through political corruption opportunities, can be identified by changes in an indicator of the controllability of the network at points where the network undergoes a structural change. A theoretical model of control input preference is formulated which leads to a testable hypothesis about the direction of correlation between controllability of a network and the presence of corruption. Results support the hypothesis that as corruption increases, the network becomes more difficult to control as all members alter their linking strategies to ensure that they get a piece of the action. We describe this novel effect as “hierarchical congestion”, to reflect the emergent phenomenon in which individuals making effort to move themselves to the top of the controllability hierarchy increase the number of driver nodes required to fully control the network.'
