@@ -1,5 +1,5 @@
 ---
-title: 'Network controllability metrics for corruption research'
+title: 'Political corruption and the congestion of controllability in social networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
