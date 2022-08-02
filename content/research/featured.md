@@ -7,9 +7,9 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 3
 
-title: Featured Working Papers
+title: Working Papers
 subtitle: ''
 
 content:
