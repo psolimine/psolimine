@@ -25,6 +25,6 @@ slides: ""
  <iframe
        src="./Analyzing_economic_networks.html"
        width="100%"
-       height="24250px"
+       height="24150px"
        style="border:none;">
  </iframe>
