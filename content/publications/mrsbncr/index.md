@@ -28,7 +28,7 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the SPIE, Smart Biomedical and Physiological Sensor Technology XV*
+publication: In *Proceedings of the SPIE, Smart Biomedical and Physiological Sensor Technology XVI*
 publication_short: ''
 
 abstract: 
