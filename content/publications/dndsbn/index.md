@@ -25,18 +25,18 @@ publishDate: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the SPIE, Smart Biological and Sensor Technology XVI*
 publication_short: ''
 
-abstract: 'Leader-follower controllability in brain networks which are affected neurodegenerative diseases can provide important biomarkers relevant for disease evolution. The brain network is viewed as a dynamic system where the nodes interact via neighbor-based Laplacian feedback rules. The network has cooperative connections between the nodes described by positive weights along with competitive connections which are described by negative connection weights. The nodes take the role of either leaders or followers, thus forming a leader-follower signed dynamic graph network. The results of this analysis can be easily generalized on unsigned brain networks. We apply the leader-follower concept to structural and functional brain networks with neurodegenerative diseases (dementia) and show that the found leaders represent important biomarkers for disease evolution. In other words, the leader nodes drive the network towards deteriorating cognitive states.'
+abstract: 'By viewing political and social corruption through the lens of the control theory of complex systems, this paper will provide some insight into the effects of corruption and outside control on incentives which direct the formation and evolution of social networks, and the intrinsic hierarchies which they encode. This paper proposes and tests the hypothesis that changes in the rate of competition among nodes to raise their control capacity, incentivized by the anticipation of payment through political corruption opportunities, can be identified by changes in an indicator of the controllability of the network at points where the network undergoes a structural change. A theoretical model of control input preference is formulated which leads to a testable hypothesis about the direction of correlation between controllability of a network and the presence of corruption. Results support the hypothesis that as corruption increases, the network becomes more difficult to control as all members alter their linking strategies to ensure that they get a piece of the action. We describe this novel effect as “hierarchical congestion”, to reflect the emergent phenomenon in which individuals making effort to move themselves to the top of the controllability hierarchy increase the number of driver nodes required to fully control the network.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Neural networks','Dynamic networks','Network degeneration','Optimal control','Data science']
+tags: ['Neural networks','Dynamic networks','Optimal control','Data science']
 
 # Display this page in the Featured widget?
 featured: false
