@@ -31,7 +31,7 @@ publication_types: ['1']
 publication: In *Proceedings of the SPIE, Smart Biomedical and Physiological Sensor Technology XV*
 publication_short: ''
 
-abstract: ''
+abstract: 'Reducing a graph model is extremely important for the dynamical analysis of large-scale networks. In order to approximate the behavior of such a system it is helpful to be able to simplify the model. In this paper, the graph reduction model is introduced. This method is based on removing edges that close independent cycles in the graph. We apply this novel model reduction paradigm to brain networks, and show the differences between the model approximation error for various brain network graphs ranging from those of healthy controls to those of Alzheimer's patients. The graph simplification for Alzheimer\'s brain networks yields the smallest approximation error, since the number of independent cycles is smaller than in either the healthy controls or mild cognitive impairment patients.'
 
 # Summary. An optional shortened abstract.
 summary: ''
