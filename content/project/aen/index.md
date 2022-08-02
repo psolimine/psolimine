@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Analyzing economic networks'
 summary:
 tags:
   - Networks
