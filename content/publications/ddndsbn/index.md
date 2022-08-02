@@ -15,7 +15,7 @@ authors:
 # Author notes (optional)
 author_notes: ''
 
-date: '2020-04-05'
+date: '2019-05-02'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ publication_types: ['1']
 publication: In *Proceedings of the SPIE, Smart Biomedical and Physiological Sensor Technology XVI*
 publication_short: ''
 
-abstract: ' Leader-follower controllability in brain networks which are affected neurodegenerative diseases can provide important biomarkers relevant for disease evolution. The brain network is viewed as a dynamic system where the nodes interact via neighbor-based Laplacian feedback rules. The network has cooperative connections between the nodes described by positive weights along with competitive connections which are described by negative connection weights. The nodes take the role of either leaders or followers, thus forming a leader-follower signed dynamic graph network. The results of this analysis can be easily generalized on unsigned brain networks. We apply the leader-follower concept to structural and functional brain networks with neurodegenerative diseases (dementia) and show that the found leaders represent important biomarkers for disease evolution. In other words, the leader nodes drive the network towards deteriorating cognitive states. '
+abstract: 'Leader-follower controllability in brain networks which are affected by neurodegenerative diseases can provide important biomarkers relevant for disease evolution. The brain network is viewed as a dynamic system where the nodes interact via neighbor-based Laplacian feedback rules. The network has cooperative connections between the nodes described by positive weights along with competitive connections which are described by negative connection weights. The nodes take the role of either leaders or followers, thus forming a leader-follower signed dynamic graph network. The results of this analysis can be easily generalized on unsigned brain networks. We apply the leader-follower concept to structural and functional brain networks with neurodegenerative diseases (dementia) and show that the found leaders represent important biomarkers for disease evolution. In other words, the leader nodes drive the network towards deteriorating cognitive states.'
 
 # Summary. An optional shortened abstract.
 summary: ''
