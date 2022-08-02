@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: ''
 summary:
 tags:
   - Networks
@@ -24,7 +24,7 @@ slides: ""
 
  <iframe
        src="./Analyzing_economic_networks.html"
-       width="100%"
-       height="10000px"
+       width="150%"
+       height="100000px"
        style="border:none;">
  </iframe>
