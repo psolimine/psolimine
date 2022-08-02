@@ -28,6 +28,7 @@ publication: Conditionally accepted at *Journal of Economic Behavior & Organizat
 publication_short: ''
 
 abstract: 
+  Conditionally accepted at *Journal of Economic Behavior & Organization*
   <details>
     <summary>View abstract</summary>
     We conduct a market experiment with the opportunity for sellers to send a nonbinding advertisement of their product quality, and examine the effects of including a reputation aggregation system for sellers in these markets. In order to closely match the setting of real life markets, we conduct a laboratory experiment designed to emulate an online marketplace. We find substantial efficiency gains from the addition of the ratings system, but not enough to obtain fully efficient market outcomes. These efficiency gains come primarily through a decrease in false advertising behavior by the sellers, as they compete to build reputations, raising the overall levels of trust in the market. We structurally examine the formation of reputations by the sellers (with and without ratings) and the effect of these reputations on the decisions of buyers and sellers in the market. Using a bipartite network of transaction data, we quantify the effects of ratings in encouraging trustworthiness and supporting diverse, connected, and high quality markets.
