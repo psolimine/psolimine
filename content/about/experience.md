@@ -52,7 +52,7 @@ experience:
     company_logo: fsu
     location: Tallahassee, FL
     date_start: '2015-01-01'
-    date_end: '2016-08-01'
+    date_end: '2017-08-31'
 
 design:
   columns: '2'
