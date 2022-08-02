@@ -1,6 +1,6 @@
 ---
 title: 'Analyzing economic networks'
-summary: 'A notebook to introduce students to the field of network analysis and how to work with networks in python'
+summary: 'A notebook to introduce students to the field of graph and network analysis, and teach them how to work with networks in python'
 tags:
   - Networks
   - Data science
