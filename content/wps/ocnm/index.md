@@ -76,3 +76,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+**Abstract:** We study the optimal control of the mean and variance of the network state vector. We develop an algorithm that uses projected gradient descent to optimize the control input placement, subject to constraints on the state that must be achieved at a given time threshold; seeking an input placement that moves the moment at minimum cost. First, we solve the state-selection problem for a number of variants of the first and second moment, and find solutions related to the eigenvalues of the systems' Gramian matrices. We then nest this state selection into projected gradient descent to design an optimal input augmentation.
