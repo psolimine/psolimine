@@ -19,4 +19,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-<b>Coming soon!</b>
+<big><b>Coming soon!</b></big>
