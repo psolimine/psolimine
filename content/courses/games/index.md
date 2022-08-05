@@ -79,12 +79,16 @@ slides: ""
 **Student feedback:**
 <details>
   <summary><b>Summer 2021 (face-to-face)</b></summary>
-  - **Full Course Evaluations**
-  - **Selected student comments:**
-    - I appreciate that Philip takes a learning forward approach to instructing this class, he is transparent about being 'an easy grader' and it is obvious that he is more focused on learning than he is on his students getting grades. I think this is conducive to a healthy learning environment, at least for me personally. I think I have learned more in this class than 90% of my other economics courses. The assignments are directly correlated with what we learned in class and they are short and to the point. There is no busy work asked of us which allows me to put in ample time into actual important studying/learning with the materials given. He always gives great detailed feedback and follow through points. I also enjoy MobLab.
-    - Dr. Solimine was very helpful in teaching us this course, and always offered additional help if we got lost on a problem. I really enjoyed having him as a professor.
-    - I really liked how you provided detailed feedback on the exams and problem sets. It really helped me understand and learn from my mistakes.
-    - Going to office hours was very helpful, where you gave full in depth explanations of the homework and exams each time for my understanding. The Mob Lab was fun to do because of the practical application of the material we learned was being put to use. I do not like senseless learning... ...with this class each week we learned then you would provide examples, sometimes in games relevance or real life economics issues where game theory could be implemented. With that in mind I thought it helped me be engaged a bit more. 
+  <ul>
+    <li><a href="">Full Course Evaluations</a></li>
+    <li><b>Selected student comments:</b><li>
+    <ul>
+      <li>I appreciate that Philip takes a learning forward approach to instructing this class, he is transparent about being 'an easy grader' and it is obvious that he is more focused on learning than he is on his students getting grades. I think this is conducive to a healthy learning environment, at least for me personally. I think I have learned more in this class than 90% of my other economics courses. The assignments are directly correlated with what we learned in class and they are short and to the point. There is no busy work asked of us which allows me to put in ample time into actual important studying/learning with the materials given. He always gives great detailed feedback and follow through points. I also enjoy MobLab.</li>
+      <li>Dr. Solimine was very helpful in teaching us this course, and always offered additional help if we got lost on a problem. I really enjoyed having him as a professor.</li>
+      <li>I really liked how you provided detailed feedback on the exams and problem sets. It really helped me understand and learn from my mistakes.</li>
+      <li>Going to office hours was very helpful, where you gave full in depth explanations of the homework and exams each time for my understanding. The Mob Lab was fun to do because of the practical application of the material we learned was being put to use. I do not like senseless learning... ...with this class each week we learned then you would provide examples, sometimes in games relevance or real life economics issues where game theory could be implemented. With that in mind I thought it helped me be engaged a bit more.</li>
+    </ul>
+  </ul>
 </details>
 
 - **Summer 2020 (online)**
