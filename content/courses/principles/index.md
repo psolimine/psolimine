@@ -27,7 +27,7 @@ publication_short: ''
 
 abstract:
   <b>Course description:</b>
-  This advanced elective course provides an introduction to the applied theoretical modeling of games and decision making, designed to be both practical for and accessible to students from a wide range of backgrounds. The course focuses on problems arising in business and economic environments, such as in public economics and industrial organization, with the primary goal of promoting critical and strategic thinking in both professional settings and everyday life.<br/><br/>
+  This introductory course covered basic topics in microeconomics, from supply and demand to market structure, capital markets, and financial economics. The primary goal of this course is to provide students with the insight to recognize economic problems and the tools to analyze them. Being filled (almost) entirely with incoming business-school freshmen, the course was designed to promote critical thinking and to encourage values that are important to academic achievement at the collegiate level. <br/><br/>
 
   <details>
     <b>Summer 2019 (face-to-face)</b>
@@ -86,7 +86,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-**Course description:** This advanced elective course provides an introduction to the applied theoretical modeling of games and decision making, designed to be both practical for and accessible to students from a wide range of backgrounds. The course focuses on problems arising in business and economic environments, such as in public economics and industrial organization, with the primary goal of promoting critical and strategic thinking in both professional settings and everyday life.
+**Course description:** This introductory course covered basic topics in microeconomics, from supply and demand to market structure, capital markets, and financial economics. The primary goal of this course is to provide students with the insight to recognize economic problems and the tools to analyze them. Being filled (almost) entirely with incoming business-school freshmen, the course was designed to promote critical thinking and to encourage values that are important to academic achievement at the collegiate level.
 
 **Student feedback:**
 <details>
