@@ -1,10 +1,10 @@
 ---
-title: 'ECO4400 Games & Decisions (FSU)'
+title: 'Efficient input placement for the optimal control of networked moments'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors: 'Philip Solimine'
+authors: ''
 
 # Author notes (optional)
 author_notes: ''
@@ -74,4 +74,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-**Course description:** This advanced elective course provides an introduction to the applied theoretical modeling of games and decision making, designed to be both practical for and accessible to students from a wide range of backgrounds. The course focuses on problems arising in business and economic environments, such as in public economics and industrial organization, with the primary goal of promoting critical and strategic thinking in both professional settings and everyday life.
+**Abstract:** We study the optimal control of the mean and variance of the network state vector. We develop an algorithm that uses projected gradient descent to optimize the control input placement, subject to constraints on the state that must be achieved at a given time threshold; seeking an input placement that moves the moment at minimum cost. First, we solve the state-selection problem for a number of variants of the first and second moment, and find solutions related to the eigenvalues of the systems' Gramian matrices. We then nest this state selection into projected gradient descent to design an optimal input augmentation.
