@@ -46,7 +46,7 @@ abstract:
       </ul>
     </ul>
   </details>
-  
+
   <details>
     <summary><b>Summer 2020 (online)</b></summary>
     <ul>
