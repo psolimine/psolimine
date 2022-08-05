@@ -34,7 +34,7 @@ abstract:
     <summary><b>View student feedback</b></summary>
     <details>
       <summary><b>Summer 2021 (face-to-face)</b></summary>
-      - Selected student comments
+      - Selected student comments:
             - I appreciate that Philip takes a learning forward approach to instructing this class, he is transparent about being 'an easy grader' and it is obvious that he is more focused on learning than he is on his students getting grades. I think this is conducive to a healthy learning environment, at least for me personally. I think I have learned more in this class than 90% of my other economics courses. The assignments are directly correlated with what we learned in class and they are short and to the point. There is no busy work asked of us which allows me to put in ample time into actual important studying/learning with the materials given. He always gives great detailed feedback and follow through points. I also enjoy MobLab.
             - Dr. Solimine was very helpful in teaching us this course, and always offered additional help if we got lost on a problem. I really enjoyed having him as a professor.
             - I really liked how you provided detailed feedback on the exams and problem sets. It really helped me understand and learn from my mistakes.
@@ -45,7 +45,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Game theory','Decision theory']
+tags: ['Networks','Optimal control', 'Input design']
 
 # Display this page in the Featured widget?
 featured: true
@@ -55,7 +55,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2106.05265'
 url_code: ''
 url_dataset: ''
 url_poster: ''
