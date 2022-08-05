@@ -32,7 +32,8 @@ abstract:
   </details>
 
   <details>
-    <summary><b>Summer 2021 (face-to-face)</b></summary>
+    <summary><b>Student feedback</b></summary>
+    <b>Summer 2021 (face-to-face)</b>
     <ul>
       <li><a href="ECO4400s21_eval.pdf">Full course evaluations (PDF)</a></li>
       <li><b>Selected student comments:</b></li>
@@ -43,8 +44,8 @@ abstract:
         <li>Going to office hours was very helpful, where you gave full in depth explanations of the homework and exams each time for my understanding. The Mob Lab was fun to do because of the practical application of the material we learned was being put to use. I do not like senseless learning... ...with this class each week we learned then you would provide examples, sometimes in games relevance or real life economics issues where game theory could be implemented. With that in mind I thought it helped me be engaged a bit more.</li>
       </ul>
     </ul>
-    
-    <summary><b>Summer 2020 (online)</b></summary>
+
+    <b>Summer 2020 (online)</b>
     <ul>
       <li><a href="ECO4400s20_eval.pdf">Full course evaluations (PDF)</a></li>
       <li><b>Selected student comments:</b></li>
