@@ -31,8 +31,8 @@ abstract:
     This advanced elective course provides an introduction to the applied theoretical modeling of games and decision making, designed to be both practical for and accessible to students from a wide range of backgrounds. The course focuses on problems arising in business and economic environments, such as in public economics and industrial organization, with the primary goal of promoting critical and strategic thinking in both professional settings and everyday life.
   </details>
 
-  <b>View student feedback</b>
-  <b>Semester:</b>
+  <b>Student feedback:</b>
+
   <details>
     <summary><b>Summer 2021 (face-to-face)</b></summary>
     <ul>
@@ -46,6 +46,7 @@ abstract:
       </ul>
     </ul>
   </details>
+  
   <details>
     <summary><b>Summer 2020 (online)</b></summary>
     <ul>
