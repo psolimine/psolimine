@@ -32,7 +32,6 @@ abstract:
   </details>
 
   <details>
-    <summary><b>Student feedback</b></summary>
     <b>Summer 2021 (face-to-face)</b>
     <ul>
       <li><a href="ECO4400s21_eval.pdf">Full course evaluations (PDF)</a></li>
@@ -57,6 +56,7 @@ abstract:
         <li>...he mixed the work load but also giving us time to take in the information without us just doing it to do it. I know for a fact I will be using game theory everyday of my life.</li>
       </ul>
     </ul>
+    <summary><b>Student feedback</b></summary>
   </details>
 
 # Summary. An optional shortened abstract.
