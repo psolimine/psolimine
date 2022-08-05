@@ -80,7 +80,7 @@ slides: ""
 <details>
   <summary><b>Summer 2021 (face-to-face)</b></summary>
   <ul>
-    <li><a href="static/ECO4400s21_eval.pdf">Full course evaluations (PDF)</a></li>
+    <li><a href="ECO4400s21_eval.pdf">Full course evaluations (PDF)</a></li>
     <li><b>Selected student comments:</b></li>
     <ul>
       <li>I appreciate that Philip takes a learning forward approach to instructing this class, he is transparent about being 'an easy grader' and it is obvious that he is more focused on learning than he is on his students getting grades. I think this is conducive to a healthy learning environment, at least for me personally. I think I have learned more in this class than 90% of my other economics courses. The assignments are directly correlated with what we learned in class and they are short and to the point. There is no busy work asked of us which allows me to put in ample time into actual important studying/learning with the materials given. He always gives great detailed feedback and follow through points. I also enjoy MobLab.</li>
@@ -94,7 +94,7 @@ slides: ""
 <details>
   <summary><b>Summer 2020 (online)</b></summary>
   <ul>
-    <li><a href="static/ECO4400s20_eval.pdf">Full course evaluations (PDF)</a></li>
+    <li><a href="ECO4400s20_eval.pdf">Full course evaluations (PDF)</a></li>
     <li><b>Selected student comments:</b></li>
     <ul>
       <li>His effort and time put in outside class is outstanding. Genuinely cares about his students. One of the best teachers I've had at fsu.</li>
