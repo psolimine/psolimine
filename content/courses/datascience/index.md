@@ -29,7 +29,7 @@ publication_short: ''
 abstract:
   <details>
     <summary><b>View course description</b></summary>
-    Coming soon
+    Coming soon!
   </details>
 
 # Summary. An optional shortened abstract.
@@ -38,7 +38,7 @@ summary: ''
 tags: ['Data science', 'Quantitative economics', 'Applied economics', 'Python']
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 url_pdf: ''
