@@ -46,7 +46,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Networks','Optimal control', 'Input design']
+tags: ['Microeconomics']
 
 # Display this page in the Featured widget?
 featured: true
@@ -56,7 +56,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2106.05265'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
