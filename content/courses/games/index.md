@@ -32,6 +32,7 @@ abstract:
   </details>
   <details>
     <summary><b>View student feedback</b></summary>
+    <b>Semester:</b>
     <details>
       <summary><b>Summer 2021 (face-to-face)</b></summary>
       <ul>
