@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 1
 
-title: Working Papers
+title: Courses
 subtitle: ''
 
 content:
@@ -19,7 +19,7 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    folder: 'wps'
+    folder: 'courses'
     author: ''
     category: ''
     publication_type: ''
