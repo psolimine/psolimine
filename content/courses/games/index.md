@@ -34,7 +34,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Market design', 'Experimental markets and networks', 'Decentralization', 'Reputation systems and information design']
+tags: ['Game theory', 'Decision theory']
 
 # Display this page in the Featured widget?
 featured: true
@@ -74,4 +74,21 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-**Abstract:** We conduct a market experiment with the opportunity for sellers to send a nonbinding advertisement of their product quality, and examine the effects of including a reputation aggregation system for sellers in these markets. In order to closely match the setting of real life markets, we conduct a laboratory experiment designed to emulate an online marketplace. We find substantial efficiency gains from the addition of the ratings system, but not enough to obtain fully efficient market outcomes. These efficiency gains come primarily through a decrease in false advertising behavior by the sellers, as they compete to build reputations, raising the overall levels of trust in the market. We structurally examine the formation of reputations by the sellers (with and without ratings) and the effect of these reputations on the decisions of buyers and sellers in the market. Using a bipartite network of transaction data, we quantify the effects of ratings in encouraging trustworthiness and supporting diverse, connected, and high quality markets.
+**Abstract:** This advanced elective course provides an introduction to the applied theoretical modeling of games and decision making, designed to be both practical for and accessible to students from a wide range of backgrounds. The course focuses on problems arising in business and economic environments, such as in public economics and industrial organization, with the primary goal of promoting critical and strategic thinking in both professional settings and everyday life.
+
+- **Summer 2021 (face-to-face)**
+        - **Full Course Evaluations**
+        - **Selected student comments:**
+            - I appreciate that Philip takes a learning forward approach to instructing this class, he is transparent about being 'an easy grader' and it is obvious that he is more focused on learning than he is on his students getting grades. I think this is conducive to a healthy learning environment, at least for me personally. I think I have learned more in this class than 90% of my other economics courses. The assignments are directly correlated with what we learned in class and they are short and to the point. There is no busy work asked of us which allows me to put in ample time into actual important studying/learning with the materials given. He always gives great detailed feedback and follow through points. I also enjoy MobLab.
+            - Dr. Solimine was very helpful in teaching us this course, and always offered additional help if we got lost on a problem. I really enjoyed having him as a professor.
+            - I really liked how you provided detailed feedback on the exams and problem sets. It really helped me understand and learn from my mistakes.
+            - Going to office hours was very helpful, where you gave full in depth explanations of the homework and exams each time for my understanding. The Mob Lab was fun to do because of the practical application of the material we learned was being put to use. I do not like senseless learning... ...with this class each week we learned then you would provide examples, sometimes in games relevance or real life economics issues where game theory could be implemented. With that in mind I thought it helped me be engaged a bit more. 
+
+    - **Summer 2020 (online)**
+        - **Course Evaluations (PDF)**
+        - **Selected student comments:**
+            - His effort and time put in outside class is outstanding. Genuinely cares about his students. One of the best teachers I've had at fsu. 
+            - I really appreciated the decision to have video lectures on MTuF and face-to-face lectures (or screen-to-screen I guess) lectures on WTh. This allowed for students to learn on their own in the beginning of the week and have ample time to ask a question during class before a quiz or assignment is due.
+            - I liked his zoom lectures every Wednesday and Thursday. They helped a lot with the pre recorded lectures he gave. He would take the time to help all of us out which I like. 
+            - He helps in office hours very well and tries to make sure everyone understands what is going on even though its a tough class. 
+            - ...he mixed the work load but also giving us time to take in the information without us just doing it to do it. I know for a fact I will be using game theory everyday of my life. 
