@@ -43,6 +43,7 @@ education:
     - course: BA in Mathematics
       year: 2016
     - course: BSc in Economics
+      institution: Florida State University
       year: 2016
 
 # Social/Academic Networking
