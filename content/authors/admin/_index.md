@@ -30,7 +30,7 @@ education:
   courses:
     - course: PhD in Economics
       year: 2022
-      institution: '  Dissertation: <i>Economic behavior in dynamic networks</i><br>  Committee:'
+      institution: Dissertation - <i>Economic behavior in dynamic networks</i><br>  Committee - Luke Boosey (co-chair), Matthew Gentry (co-chair), R. Mark Isaac, Cynthia Fan Yang, Anke Meyer-Baese
     - course: MSc in Computational Science
       year: 2022
     - course: MSc in Economics
