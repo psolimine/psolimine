@@ -30,7 +30,7 @@ education:
   courses:
     - course: PhD in Economics
       year: 2022
-      institution: Florida State University
+      institution: '  Dissertation: <i>Economic behavior in dynamic networks</i><br>  Committee:'
     - course: MSc in Computational Science
       year: 2022
     - course: MSc in Economics
