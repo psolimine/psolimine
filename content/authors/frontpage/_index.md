@@ -11,7 +11,7 @@ role: Postdoctoral Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of British Columbia
-    url: https://www.ubc.edu
+    url: https://www.ubc.ca
 
 # Short bio (displayed in user profile at end of posts)
 bio: Philip Solimine is a Postdoctoral Fellow in Economics and Data Science at the University of British Columbia
@@ -24,7 +24,7 @@ bio: Philip Solimine is a Postdoctoral Fellow in Economics and Data Science at t
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: '/about/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/pc_solimine
