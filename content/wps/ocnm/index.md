@@ -1,5 +1,5 @@
 ---
-title: 'Efficient input placement for the optimal control of networked moments'
+title: 'Input design for the optimal control of networked moments'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
