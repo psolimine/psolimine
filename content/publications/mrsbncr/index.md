@@ -47,7 +47,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - name: Published version
+  - name: Conference paper
     url: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11020/110200A/Determining-driver-nodes-in-dynamic-signed-biological-networks/10.1117/12.2519550.short'
 
 url_pdf: ''

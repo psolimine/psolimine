@@ -38,7 +38,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - name: Published version
+  - name: Book chapter
     url: 'https://link.springer.com/chapter/10.1007/978-3-030-81484-7_3'
 
 url_pdf: ''

@@ -38,7 +38,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - name: Published version
+  - name: Journal article
     url: 'https://appliednetsci.springeropen.com/articles/10.1007/s41109-020-00263-5'
 
 url_pdf: 'https://appliednetsci.springeropen.com/track/pdf/10.1007/s41109-020-00263-5.pdf'

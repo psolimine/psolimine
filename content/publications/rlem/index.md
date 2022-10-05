@@ -40,7 +40,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - name: Published version
+  - name: Book chapter
     url: 'https://www.emerald.com/insight/content/doi/10.1108/S0193-230620220000021009/'
 
 url_pdf: 'https://coss.fsu.edu/econpapers/wpaper/wp2020_01_02.pdf'
