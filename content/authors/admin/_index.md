@@ -32,7 +32,7 @@ education:
       year: 2022
       institution: 
         "Dissertation: Economic behavior in dynamic networks\n
-        Committee: Luke Boosey (co-chair), Matthew Gentry (co-chair), R. Mark Isaac, Cynthia Fan Yang, Anke Meyer-Baese"
+        Committee: Matthew Gentry (co-chair), Luke Boosey (co-chair), R. Mark Isaac, Cynthia Fan Yang, Anke Meyer-Baese"
     - course: MSc in Computational Science
       institution:
         "Thesis: Optimal control for networked moments\n
@@ -82,7 +82,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a postdoctoral fellow in the [Vancouver School of Economics](https://economics.ubc.ca/) and the [Center for Innovative Data in Economic Research](https://economics.ubc.ca/cider/research-activity/) at the University of British Columbia, and an external member of the [Data Science](https://datascience.quantecon.org) team at [QuantEcon](https://quantecon.org).
+I am a postdoctoral fellow in the [Vancouver School of Economics](https://economics.ubc.ca/) and the [Centre for Innovative Data in Economic Research](https://economics.ubc.ca/cider/research-activity/) at the University of British Columbia, and an external member of the [Data Science](https://datascience.quantecon.org) team at [QuantEcon](https://quantecon.org).
 
 My research is focused on understanding economic behavior in dynamic social and economic networks. I develop tools to identify the driving forces behind the evolution of social interaction, and apply them to real data to study the subsequent impact of endogenous social structure on economic processes — market transactions, learning, opinion exchange, trading in influence, and collective action — that are set in these complex environments.
 
