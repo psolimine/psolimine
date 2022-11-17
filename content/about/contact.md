@@ -40,7 +40,7 @@ content:
   directions:
   office_hours:
     - 'Office Hours:'
-    - 'Monday and Wednesday, 3pm to 5pm'
+    - 'Tuesday 10:30-11:30am or by appointment'
 
 design:
   columns: '2'
