@@ -43,7 +43,7 @@ tags: ['Market design', 'Experimental markets and networks', 'Decentralization',
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+ links:
 - name: Published version
     url: https://authors.elsevier.com/a/1gDj%7E_3pQ3imtq
 
