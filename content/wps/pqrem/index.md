@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 author_notes: ''
 
-date: '2022-01-02'
+date: '2023-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -43,9 +43,9 @@ tags: ['Market design', 'Experimental markets and networks', 'Decentralization',
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Published version
+   url: https://authors.elsevier.com/a/1gDj%7E_3pQ3imtq
 
 url_pdf: 'https://coss.fsu.edu/econpapers/wpaper/wp2021_08_01.pdf'
 url_code: ''
