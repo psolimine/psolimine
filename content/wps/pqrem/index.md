@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 author_notes: ''
 
-date: '2023-01-01'
+date: '2022-01-02'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -21,14 +21,14 @@ publishDate: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: *Journal of Economic Behavior & Organization*
+publication: Accepted at *Journal of Economic Behavior & Organization*
 publication_short: ''
 
 abstract: 
-  *Journal of Economic Behavior & Organization*, Vol. 205 p. 528-559
+  Accepted at *Journal of Economic Behavior & Organization*
   <details>
     <summary><b>View abstract</b></summary>
     We conduct a market experiment with the opportunity for sellers to send a nonbinding advertisement of their product quality, and examine the effects of including a reputation aggregation system for sellers in these markets. In order to closely match the setting of real life markets, we conduct a laboratory experiment designed to emulate an online marketplace. We find substantial efficiency gains from the addition of the ratings system, but not enough to obtain fully efficient market outcomes. These efficiency gains come primarily through a decrease in false advertising behavior by the sellers, as they compete to build reputations, raising the overall levels of trust in the market. We structurally examine the formation of reputations by the sellers (with and without ratings) and the effect of these reputations on the decisions of buyers and sellers in the market. Using a bipartite network of transaction data, we quantify the effects of ratings in encouraging trustworthiness and supporting diverse, connected, and high quality markets.
@@ -44,8 +44,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-- name: Published version
-    url: https://authors.elsevier.com/a/1gDj%7E_3pQ3imtq
+# - name: Custom Link
+#   url: http://example.org
 
 url_pdf: 'https://coss.fsu.edu/econpapers/wpaper/wp2021_08_01.pdf'
 url_code: ''

@@ -30,7 +30,7 @@ abstract:
   This course presents an introduction to data science, economics, programming, and how they can be used to understand the world around us. We focus on learning practical programming skills for the workplace and future studies in economics and finance, envisioned as a complement to econometrics. Unlike other courses in computer science, data science, or statistics, the emphasis of this course includes both the programming and the statistics necessary to analyze data and subsequently interpret results through the lens of economics. <br/><br/>
 
   <details>
-    <b>Fall 2022 (x1)</b><br/>
+    <b>Fall 2022</b>
     <b>Winter 2023 (x2)</b>
     <summary><b>Sections</b></summary>
   </details>
