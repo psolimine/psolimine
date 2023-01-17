@@ -43,7 +43,7 @@ tags: ['Networks','Optimal control', 'Input design']
 featured: true
 
 # Custom links (uncomment lines below)
- links:
+# links:
  - name: Published version
    url: 'https://ieeexplore.ieee.org/document/9992388'
 
