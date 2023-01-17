@@ -24,11 +24,11 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted at *2022 61st IEEE Conference on Decision and Control (CDC)*
+publication: *Proceedings of the 61st IEEE Conference on Decision and Control*
 publication_short: ''
 
 abstract:
-  Accepted at *61st IEEE Conference on Decision and Control*
+  *2022 61st IEEE Conference on Decision and Control*
   <details>
     <summary><b>View abstract</b></summary>
     We study the optimal control of the mean and variance of the network state vector. We develop an algorithm that uses projected gradient descent to optimize the control input placement, subject to constraints on the state that must be achieved at a given time threshold; seeking to design an input that moves the moment at minimum cost. First, we solve the state-selection problem for a number of variants of the first and second moment, and find solutions related to the eigenvalues of the systems' Gramian matrices. We then nest this state selection into projected gradient descent to design optimal inputs.
@@ -44,8 +44,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+ - name: Published version
+   url: 'https://ieeexplore.ieee.org/document/9992388'
 
 url_pdf: 'https://arxiv.org/pdf/2106.05265'
 url_code: ''
