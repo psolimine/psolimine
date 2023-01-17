@@ -1,5 +1,5 @@
 ---
-title: 'Data Science in Applied Economics'
+title: 'ECON 323 Quantitative Economic Modeling and Data Science (UBC)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,7 +9,7 @@ authors: ''
 # Author notes (optional)
 author_notes: ''
 
-date: '2022-09-06'
+date: '2022-12-31'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,18 +26,21 @@ publication: ''
 publication_short: ''
 
 abstract:
+  <b>Course description:</b>
+  This course presents an introduction to data science, economics, programming, and how they can be used to understand the world around us. We focus on learning practical programming skills for the workplace and future studies in economics and finance, envisioned as a complement to econometrics. Unlike other courses in computer science, data science, or statistics, the emphasis of this course includes both the programming and the statistics necessary to analyze data and subsequently interpret results through the lens of economics. <br/><br/>
+
   <details>
-    <summary><b>View course description</b></summary>
-    Coming soon!
+    <b>Fall 2022</b>
+    <b>Winter 2023 (x2)</b>
   </details>
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Data science', 'Quantitative economics', 'Applied economics', 'Python']
+tags: ['Quantitative economics', 'Applied economics', 'Data science', 'Python']
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 url_pdf: ''
