@@ -38,10 +38,12 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - name: Journal article
+  - name: Link to journal article
     url: 'https://appliednetsci.springeropen.com/articles/10.1007/s41109-020-00263-5'
+  - name: Journal article (PDF)
+    url: 'https://appliednetsci.springeropen.com/track/pdf/10.1007/s41109-020-00263-5.pdf'
 
-url_pdf: 'https://appliednetsci.springeropen.com/track/pdf/10.1007/s41109-020-00263-5.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
