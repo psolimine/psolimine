@@ -24,7 +24,7 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 61st IEEE Conference on Decision and Control (CDC)*
+publication: In *Proceedings of the 61st IEEE Conference on Decision and Control (CDC)*. pp. 5894-5901
 publication_short: ''
 
 abstract:
