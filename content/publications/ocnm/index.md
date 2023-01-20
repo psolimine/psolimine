@@ -27,7 +27,12 @@ publication_types: ['1']
 publication: Recently published, *Proceedings of the 61st IEEE Conference on Decision and Control*
 publication_short: ''
 
-abstract: 'We study the optimal control of the mean and variance of the network state vector. We develop an algorithm that uses projected gradient descent to optimize the control input placement, subject to constraints on the state that must be achieved at a given time threshold; seeking to design an input that moves the moment at minimum cost. First, we solve the state-selection problem for a number of variants of the first and second moment, and find solutions related to the eigenvalues of the systems' Gramian matrices. We then nest this state selection into projected gradient descent to design optimal inputs.'
+abstract:
+  Recently published, *Proceedings of the 61st IEEE Conference on Decision and Control*
+  <details>
+    <summary><b>View abstract</b></summary>
+    We study the optimal control of the mean and variance of the network state vector. We develop an algorithm that uses projected gradient descent to optimize the control input placement, subject to constraints on the state that must be achieved at a given time threshold; seeking to design an input that moves the moment at minimum cost. First, we solve the state-selection problem for a number of variants of the first and second moment, and find solutions related to the eigenvalues of the systems' Gramian matrices. We then nest this state selection into projected gradient descent to design optimal inputs.
+  </details>
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -35,7 +40,7 @@ summary: ''
 tags: ['Networks','Optimal control', 'Input design']
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
