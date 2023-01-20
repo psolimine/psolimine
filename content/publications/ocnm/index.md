@@ -40,7 +40,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
- - name: Published version
+ - name: Link to conference paper
    url: https://ieeexplore.ieee.org/document/9992388
 
 url_pdf: 'https://arxiv.org/pdf/2106.05265'
