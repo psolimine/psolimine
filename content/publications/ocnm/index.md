@@ -42,8 +42,10 @@ featured: false
 links:
  - name: Link to conference paper
    url: https://ieeexplore.ieee.org/document/9992388
+ - name: Working paper (PDF)
+   url: https://arxiv.org/pdf/2106.05265
 
-url_pdf: 'https://arxiv.org/pdf/2106.05265'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
