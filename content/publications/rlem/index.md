@@ -25,7 +25,7 @@ publishDate: ''
 publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Research in Experimental Economics*, Vol. 21, p. 201-216.
+publication: In *Research in Experimental Economics*, Vol. 21, p. 201-216. Emerald
 publication_short: ''
 
 abstract: 'In this chapter, the authors conduct a robustness study for the classic experimental results of Lynch, Miller, Plott, and Porter (1986, 1991). The authors find strong support for the original hypotheses in an updated experimental marketplace, consisting of dichotomous product qualities, non-binding signals of product quality, fixed seller identifiers, and an end-point design of deliberate ambiguity. The authors show that fixed identifiers alone are not sufficient devices to support efficient outcomes in these updated market conditions.'
