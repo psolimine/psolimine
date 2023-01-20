@@ -40,10 +40,12 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - name: Book chapter
-    url: 'https://www.emerald.com/insight/content/doi/10.1108/S0193-230620220000021009/'
+ - name: Link to book chapter
+   url: 'https://www.emerald.com/insight/content/doi/10.1108/S0193-230620220000021009/'
+ - name: Working paper (PDF)
+   url: 'https://coss.fsu.edu/econpapers/wpaper/wp2020_01_02.pdf'
 
-url_pdf: 'https://coss.fsu.edu/econpapers/wpaper/wp2020_01_02.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
