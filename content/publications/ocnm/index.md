@@ -1,18 +1,17 @@
 ---
-title: 'The robustness of lemons in experimental markets'
+title: 'Input design for the optimal control of networked moments'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Blake Dunkle
-  - R. Mark Isaac
   - admin
+  - Anke Meyer-Baese
 
 # Author notes (optional)
 author_notes: ''
 
-date: '2022-01-02'
+date: '2022-12-15'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -22,28 +21,28 @@ publishDate: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['6']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Research in Experimental Economics*. Vol. 21, p. 201-216. Emerald
+publication: In *Proceedings of the 61st IEEE Conference on Decision and Control (CDC)*. pp. 5894-5901. IEEE
 publication_short: ''
 
-abstract: 'In this chapter, the authors conduct a robustness study for the classic experimental results of Lynch, Miller, Plott, and Porter (1986, 1991). The authors find strong support for the original hypotheses in an updated experimental marketplace, consisting of dichotomous product qualities, non-binding signals of product quality, fixed seller identifiers, and an end-point design of deliberate ambiguity. The authors show that fixed identifiers alone are not sufficient devices to support efficient outcomes in these updated market conditions.'
+abstract: 'We study the optimal control of the mean and variance of the network state vector. We develop an algorithm that uses projected gradient descent to optimize the control input placement, subject to constraints on the state that must be achieved at a given time threshold; seeking to design an input that moves the moment at minimum cost. First, we solve the state-selection problem for a number of variants of the first and second moment, and find solutions related to the eigenvalues of the systems' Gramian matrices. We then nest this state selection into projected gradient descent to design optimal inputs.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Market design', 'Experimental markets and networks', 'Replication and robustness']
+tags: ['Networks','Optimal control', 'Input design']
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - name: Book chapter
-    url: 'https://www.emerald.com/insight/content/doi/10.1108/S0193-230620220000021009/'
+ - name: Link to conference paper
+   url: https://ieeexplore.ieee.org/document/9992388
 
-url_pdf: 'https://coss.fsu.edu/econpapers/wpaper/wp2020_01_02.pdf'
+url_pdf: 'https://arxiv.org/pdf/2106.05265'
 url_code: ''
 url_dataset: ''
 url_poster: ''
