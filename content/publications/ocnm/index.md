@@ -38,8 +38,9 @@ tags: ['Networks','Optimal control', 'Input design']
 featured: false
 
 # Custom links (uncomment lines below)
-- name: Link to conference paper
-  url: https://ieeexplore.ieee.org/document/9992388
+links:
+ - name: Published version
+   url: https://ieeexplore.ieee.org/document/9992388
 
 url_pdf: 'https://arxiv.org/pdf/2106.05265'
 url_code: ''
