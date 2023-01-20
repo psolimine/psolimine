@@ -25,7 +25,7 @@ publishDate: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Economic Behavior & Organization* Vol. 205, pp. 528-559. Elsevier
+publication: In *Journal of Economic Behavior & Organization*. Vol. 205, pp. 528-559. Elsevier
 publication_short: ''
 
 abstract: 'We conduct a market experiment with the opportunity for sellers to send a nonbinding advertisement of their product quality, and examine the effects of including a reputation aggregation system for sellers in these markets. In order to closely match the setting of real life markets, we conduct a laboratory experiment designed to emulate an online marketplace. We find substantial efficiency gains from the addition of the ratings system, but not enough to obtain fully efficient market outcomes. These efficiency gains come primarily through a decrease in false advertising behavior by the sellers, as they compete to build reputations, raising the overall levels of trust in the market. We structurally examine the formation of reputations by the sellers (with and without ratings) and the effect of these reputations on the decisions of buyers and sellers in the market. Using a bipartite network of transaction data, we quantify the effects of ratings in encouraging trustworthiness and supporting diverse, connected, and high quality markets.'
@@ -40,10 +40,12 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
- - name: Published version
+ - name: Link to journal article
    url: https://authors.elsevier.com/a/1gDj%7E_3pQ3imtq
+ - name: Working paper (PDF)
+   url: 'https://coss.fsu.edu/econpapers/wpaper/wp2021_08_01.pdf'
 
-url_pdf: 'https://coss.fsu.edu/econpapers/wpaper/wp2021_08_01.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
