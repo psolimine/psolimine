@@ -24,7 +24,7 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Recently published, *Proceedings of the 61st IEEE Conference on Decision and Control*
+publication: In *Proceedings of the 61st IEEE Conference on Decision and Control (CDC)*
 publication_short: ''
 
 abstract:
