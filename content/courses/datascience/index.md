@@ -30,7 +30,7 @@ abstract:
   This course presents an introduction to data science, economics, programming, and how they can be used to understand the world around us. We focus on learning practical programming skills for the workplace and future studies in economics and finance, envisioned as a complement to econometrics. Unlike other courses in computer science, data science, or statistics, the emphasis of this course includes both the programming and the statistics necessary to analyze data and subsequently interpret results through the lens of economics. <br/><br/>
 
   <details>
-    <b>Winter 2023 (x2) (ongoing)</b><br/>
+    <b>Winter 2023 (x2) (ongoing)</b><br/><br/>
 
     <b>Fall 2022</b>
     <ul>
@@ -84,5 +84,21 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-**Course description:**
-This course presents an introduction to data science, economics, programming, and how they can be used to understand the world around us. We focus on learning practical programming skills for the workplace and future studies in economics and finance, envisioned as a complement to econometrics. Unlike other courses in computer science, data science, or statistics, the emphasis of this course includes both the programming and the statistics necessary to analyze data and subsequently interpret results through the lens of economics. 
+**Course description:** This elective course presents an introduction to data science, economics, programming, and how they can be used to understand the world around us. We focus on learning practical programming skills for the workplace and future studies in economics and finance, envisioned as a complement to econometrics. Unlike other courses in computer science, data science, or statistics, the emphasis of this course includes both the programming and the statistics necessary to analyze data and subsequently interpret results through the lens of economics. 
+
+**Student feedback:**
+<b>Winter 2023 (x2) (ongoing)</b><br/><br/>
+
+<details>
+  <b>Fall 2022</b>
+  <ul>
+    <li><b>Selected student comments:</b></li>
+    <ul>
+      <li>This course covers a ton of advanced topics without any prereqs, which is a great idea. It exposes students to subjects with really interesting applications (my favorite was the graph/network content) that they wouldn't otherwise see until the end of their degree, if ever.</li>
+      <li>The instructor did a really good job of balancing the HUGE variation in students' past experience. </li>
+      <li>Dr. Phil is a great instructor always go through everything in detail. The assigned homework was manageable and relevant to class material. TA Josh is also very helpful, he explained all the problems I had clearly during his office hour. Thank you both!</li>
+      <li>I learned a lot about Python packages such as Numpy, Pandas and matplotlib. These are very useful tools. The final project give me a chance to apply these knowledge.</li>
+    </ul>
+  </ul>
+  <summary><b>View student feedback</b></summary>
+</details>
