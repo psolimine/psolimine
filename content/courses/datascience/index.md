@@ -88,11 +88,6 @@ slides: ""
 
 **Student feedback:**
 <details>
-  <summary><b>Winter 2023 (x2) (ongoing)</b></summary>
-</details>
-
-<details>
-  <b>Fall 2022</b>
   <ul>
     <li><b>Selected student comments:</b></li>
     <ul>
