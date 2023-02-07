@@ -87,7 +87,9 @@ slides: ""
 **Course description:** This elective course presents an introduction to data science, economics, programming, and how they can be used to understand the world around us. We focus on learning practical programming skills for the workplace and future studies in economics and finance, envisioned as a complement to econometrics. Unlike other courses in computer science, data science, or statistics, the emphasis of this course includes both the programming and the statistics necessary to analyze data and subsequently interpret results through the lens of economics. 
 
 **Student feedback:**
-<b>Winter 2023 (x2) (ongoing)</b><br/><br/>
+<details>
+  <summary><b>Winter 2023 (x2) (ongoing)</b></summary>
+</details>
 
 <details>
   <b>Fall 2022</b>
@@ -100,5 +102,5 @@ slides: ""
       <li>I learned a lot about Python packages such as Numpy, Pandas and matplotlib. These are very useful tools. The final project give me a chance to apply these knowledge.</li>
     </ul>
   </ul>
-  <summary><b>View student feedback</b></summary>
+  <summary><b>Fall 2022</b></summary>
 </details>
