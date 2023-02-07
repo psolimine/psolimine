@@ -38,7 +38,6 @@ abstract:
       <ul>
         <li>This course covers a ton of advanced topics without any prereqs, which is a great idea. It exposes students to subjects with really interesting applications (my favorite was the graph/network content) that they wouldn't otherwise see until the end of their degree, if ever.</li>
         <li>The instructor did a really good job of balancing the HUGE variation in students' past experience. </li>
-        <li>I liked his zoom lectures every Wednesday and Thursday. They helped a lot with the pre recorded lectures he gave. He would take the time to help all of us out which I like.</li>
         <li>Dr. Phil is a great instructor always go through everything in detail. The assigned homework was manageable and relevant to class material. TA Josh is also very helpful, he explained all the problems I had clearly during his office hour. Thank you both!</li>
         <li>I learned a lot about Python packages such as Numpy, Pandas and matplotlib. These are very useful tools. The final project give me a chance to apply these knowledge.</li>
       </ul>
