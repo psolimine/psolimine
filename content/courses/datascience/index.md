@@ -40,6 +40,7 @@ abstract:
         <li>The instructor did a really good job of balancing the HUGE variation in students' past experience. </li>
         <li>Dr. Phil is a great instructor always go through everything in detail. The assigned homework was manageable and relevant to class material. TA Josh is also very helpful, he explained all the problems I had clearly during his office hour. Thank you both!</li>
         <li>I learned a lot about Python packages such as Numpy, Pandas and matplotlib. These are very useful tools. The final project give me a chance to apply these knowledge.</li>
+        <li>Very nice professor and well-organized class. This is one of the best econ classes I have taken in UBC</li>
       </ul>
     </ul>
     <summary><b>View student feedback</b></summary>
@@ -95,6 +96,7 @@ slides: ""
       <li>The instructor did a really good job of balancing the HUGE variation in students' past experience. </li>
       <li>Dr. Phil is a great instructor always go through everything in detail. The assigned homework was manageable and relevant to class material. TA Josh is also very helpful, he explained all the problems I had clearly during his office hour. Thank you both!</li>
       <li>I learned a lot about Python packages such as Numpy, Pandas and matplotlib. These are very useful tools. The final project give me a chance to apply these knowledge.</li>
+      <li>Very nice professor and well-organized class. This is one of the best econ classes I have taken in UBC</li>
     </ul>
   </ul>
   <summary><b>Fall 2022</b></summary>
