@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 2
 
-title: Publications
-subtitle: ''
+title: ''
+subtitle: 'Publications'
 
 content:
   # Filter on criteria
