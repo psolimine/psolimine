@@ -34,7 +34,7 @@ abstract:
 
     <b>Fall 2022</b>
     <ul>
-      <li><a href="../courses/games/ECON323f22_eval.pdf">Full course evaluations (PDF)</a></li>
+      <li><a href="../courses/datascience/ECON323f22_eval.pdf">Full course evaluations (PDF)</a></li>
       <li><b>Selected student comments:</b></li>
       <ul>
         <li>This course covers a ton of advanced topics without any prereqs, which is a great idea. It exposes students to subjects with really interesting applications (my favorite was the graph/network content) that they wouldn't otherwise see until the end of their degree, if ever.</li>
@@ -92,7 +92,7 @@ slides: ""
 **Student feedback:**
 <details>
   <ul>
-    <li><a href="../courses/games/ECON323f22_eval.pdf">Full course evaluations (PDF)</a></li>
+    <li><a href="../courses/datascience/ECON323f22_eval.pdf">Full course evaluations (PDF)</a></li>
     <li><b>Selected student comments:</b></li>
     <ul>
       <li>This course covers a ton of advanced topics without any prereqs, which is a great idea. It exposes students to subjects with really interesting applications (my favorite was the graph/network content) that they wouldn't otherwise see until the end of their degree, if ever.</li>
