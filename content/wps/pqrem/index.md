@@ -45,7 +45,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Published version
-   url: https://authors.elsevier.com/a/1gDj%7E_3pQ3imtq
+   url: https://www.sciencedirect.com/science/article/abs/pii/S016726812200436X
 
 url_pdf: '/wps/pqrem/rmsem-draft.pdf'
 url_code: ''
