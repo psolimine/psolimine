@@ -47,7 +47,7 @@ links:
  - name: Published version
    url: https://authors.elsevier.com/a/1gDj%7E_3pQ3imtq
 
-url_pdf: 'rmsem-draft.pdf'
+url_pdf: '/wps/pqrem/rmsem-draft.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
