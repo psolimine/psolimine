@@ -47,7 +47,7 @@ links:
  - name: Published version
    url: https://authors.elsevier.com/a/1gDj%7E_3pQ3imtq
 
-url_pdf: 'https://coss.fsu.edu/econpapers/wpaper/wp2021_08_01.pdf'
+url_pdf: 'rmsem-draft.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
