@@ -41,9 +41,9 @@ featured: false
 # Custom links (uncomment lines below)
 links:
  - name: Link to journal article
-   url: https://authors.elsevier.com/a/1gDj%7E_3pQ3imtq
+   url: https://www.sciencedirect.com/science/article/abs/pii/S016726812200436X
  - name: Working paper (PDF)
-   url: 'https://coss.fsu.edu/econpapers/wpaper/wp2021_08_01.pdf'
+   url: '/wps/pqrem/rmsem-draft.pdf'
 
 url_pdf: ''
 url_code: ''
