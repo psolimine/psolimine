@@ -114,5 +114,5 @@ slides: ""
       <li>Temp</li>
     </ul>
   </ul>
-  <summary><b>Sprint 2023</b></summary>
+  <summary><b>Spring 2023 (x2)</b></summary>
 </details>
