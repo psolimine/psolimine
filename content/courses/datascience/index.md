@@ -42,7 +42,7 @@ abstract:
         <li>Very nice professor and well-organized class. This is one of the best econ classes I have taken in UBC</li>
       </ul>
     </ul>
-    <summary><b>View student feedback: Fall 2022</b></summary>
+    <summary><b>View student feedback - Fall 2022</b></summary>
   </details>
   <details>
   <ul>
@@ -62,7 +62,7 @@ abstract:
       <li>Great professor, explain things in details and answer questions after the class! </li>
     </ul>
   </ul>
-  <summary><b>View student feedback: Spring 2023 (x2)</b></summary>
+  <summary><b>View student feedback - Spring 2023 (x2)</b></summary>
 </details>
 
 # Summary. An optional shortened abstract.
