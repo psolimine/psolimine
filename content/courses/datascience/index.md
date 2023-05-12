@@ -63,7 +63,7 @@ abstract:
     </ul>
   </ul>
   <summary><b>View student feedback - Spring 2023 (x2)</b></summary>
-</details>
+  </details>
 
 # Summary. An optional shortened abstract.
 summary: ''
