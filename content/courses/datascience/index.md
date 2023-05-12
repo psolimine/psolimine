@@ -30,9 +30,6 @@ abstract:
   This course presents an introduction to data science, economics, programming, and how they can be used to understand the world around us. We focus on learning practical programming skills for the workplace and future studies in economics and finance, envisioned as a complement to econometrics. Unlike other courses in computer science, data science, or statistics, the emphasis of this course includes both the programming and the statistics necessary to analyze data and subsequently interpret results through the lens of economics. <br/><br/>
 
   <details>
-    <b>Winter 2023 (x2) (ongoing)</b><br/><br/>
-
-    <b>Fall 2022</b>
     <ul>
       <li><a href="../courses/datascience/ECON323f22_eval.pdf">Full course evaluations (PDF)</a></li>
       <li><b>Selected student comments:</b></li>
@@ -45,8 +42,28 @@ abstract:
         <li>Very nice professor and well-organized class. This is one of the best econ classes I have taken in UBC</li>
       </ul>
     </ul>
-    <summary><b>View student feedback</b></summary>
+    <summary><b>View student feedback: Fall 2022</b></summary>
   </details>
+  <details>
+  <ul>
+    <li><a href="../courses/datascience/2022W2ECON323003.pdf">Full course evaluations (section 003) (PDF)</a></li>
+    <li><a href="../courses/datascience/2022W2ECON323004.pdf">Full course evaluations (section 004) (PDF)</a></li>
+    <li><b>Selected student comments:</b></li>
+    <ul>
+      <li>Dr. Solimine is really brilliant and accommodating. He definitely knows what he is teaching, and truly cares about his students. One of the best instructors I have ever met. </li>
+      <li>This was a fantastically structured course. I really loved the pedagogy – weighting the problem sets so highly really motivated me to learn by doing. I learn much better in this way compared to testing. The applications and packages used are fantastically useful, and I can see so many great applications of what I've learned. Thank you! </li>
+      <li>He was great. Was genuinely interested in helping me with the final project which I really appreciated. I was a bit demoralized by how open–ended the project was but he made me excited about it and more ready to take on a topic. </li>
+      <li>This is a very useful and practical course. Many jobs require data science and teaching students how to properly use those tools is very important.</li>
+      <li>He was very knowledgable about the subject and always available to the students.</li>
+      <li>the problem sets are the right amount of challenging and greatly increased my understanding of the material </li>
+      <li>The course build solid foundations for people who want to start as a data scientist. We learn python and its important libraries and some applications in the course. The project helps us to gain some practical experience. </li>
+      <li>good to know some econ concepts and their application in data science. And we can tell Phil has spent lots of efforts on this course.</li>
+      <li>Philip is very passionate about the course material and is always eager to answer student's questions, i appreciate that wants to share as much as he knows as possible </li>
+      <li>Great professor, explain things in details and answer questions after the class! </li>
+    </ul>
+  </ul>
+  <summary><b>View student feedback: Spring 2023 (x2)</b></summary>
+</details>
 
 # Summary. An optional shortened abstract.
 summary: ''
