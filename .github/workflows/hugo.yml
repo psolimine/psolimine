@@ -3,7 +3,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
@@ -22,4 +22,3 @@ jobs:
         HUGO_VERSION: 0.68.3
         TARGET_REPO: psolimine/psolimine.github.io
         TOKEN: ${{ secrets.MY_KEY }}
-        CNAME: www.jameswright.xyz
